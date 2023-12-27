@@ -21,12 +21,12 @@ Sixth Step: 2 element's steps same as the 4 elements steps until last step. At t
 
 Binary Search Tree for This Problem;
 
-            7
-           / \
-          5   8
-        /  \    \
-      1     6     9
-     / \         
-   0     3           
-       /   \
-     2       4
+             7
+            / \
+           5   8
+         /  \    \
+       1     6     9
+      / \         
+    0     3           
+        /   \
+      2       4
